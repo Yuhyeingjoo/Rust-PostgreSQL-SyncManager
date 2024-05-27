@@ -1,0 +1,8 @@
+[package]
+name = "sync_db_manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust-ini = "0.21"
+postgres = "0.17"
